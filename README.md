@@ -1,7 +1,7 @@
 Myntra online Fashion Store
 Hello Everyone,
 
-I’m Rakesh, a Student of Masai School web_16 Batch. In our Third unit of Full-Stack web development course, we were given a task to clone a website called Myntra Online fashion store in our construct week project.
+I’m KIranDas, a Student of Masai School web_16 Batch. In our Third unit of Full-Stack web development course, we were given a task to clone a website called Myntra Online fashion store in our construct week project.
 
 Our project is typical e-commerce website clone. The flow of our website starts from a landing page then to a product page that leads to a description page and wishlist page which takes to cart and payment page
 
@@ -40,6 +40,7 @@ Our team consists of six people :
 5.Bipin Kumar
 
 6.Shakti Bhan
+
 ---
 
 ### Pages & Features 👇
@@ -69,6 +70,7 @@ we all respect each other time and try to complete our part with in time
 Every team member gave their best and corporate with team , we helped each other, we had regular zoom meetings ,also effective communication which comes us completing project successfully.
 
 At the end -I really thanks Masai for assigning us this project ,it really help us learning so many thing. This project could not been possible without the contribution of any team mates. I deeply appreciate every member of this team for showing relentless efforts for this project.
+
 ---
 ### How To Use ✅
 
