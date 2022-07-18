@@ -107,12 +107,12 @@ Here we have provided the categories Trending products, New Arrivals, Bestseller
 
 # Home Page
 Here you can find brief history of the products and website
- ![5]()
+ ![5](https://github.com/Kirandas96/Myntra/blob/main/images/mainpage.png)
     
 
 # Add to Cart
 In this Page, You can add the products to the Cart
-
+![5](https://github.com/Kirandas96/Myntra/blob/main/images/addtocart.png)
 
 # Sign-Up Page
 if you want buy any product you need sign up first and login with details then only you can buy
