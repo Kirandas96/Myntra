@@ -7,6 +7,8 @@ Our project is typical e-commerce website clone. The flow of our website starts 
 
 # myntra-clone
 ![Screenshot (180)](https://user-images.githubusercontent.com/98827173/171259640-bc6d10ef-f58b-46f2-9cd3-ad96ecf1ea20.png)
+![18](https://github.com/Kirandas96/Myntra/blob/main/images/cart.png)
+![19](https://github.com/Kirandas96/Myntra/blob/main/images/signup.png)
 
 
 ---
@@ -99,33 +101,66 @@ Sign-up or Login-page :-
 
 If the user is new or regular to our website ,he/she can simply create an account using their mobile number and that data is pre-defined also that data is verified when user is logged in using login page .This page is done by“ karina khairnar” (me).
 
-Homepage or Landing page :-
+## Homepage or Landing page :-
 
 After login ,the user lands on the homepage.
 
 Here we have provided the categories Trending products, New Arrivals, Bestsellers, Exclusive brands , latest inn Beauty etc. We gave links to that respective product listing pages. This page is done by “Yash Tomar”.
+![5](https://github.com/Kirandas96/Myntra/blob/main/images/mainpage.png)
 
-# Home Page
-Here you can find brief history of the products and website
- ![5](https://github.com/Kirandas96/Myntra/blob/main/images/mainpage.png)
+![6](https://miro.medium.com/max/1400/0*BIZ_iRWID-DGdG7e.png)
     
 
-# Add to Cart
-In this Page, You can add the products to the Cart
-![5](https://github.com/Kirandas96/Myntra/blob/main/images/addtocart.png)
+# Landing page
 
-# Sign-Up Page
-if you want buy any product you need sign up first and login with details then only you can buy
-![7](https://miro.medium.com/max/2642/1*ISCDMy_F-LamDu6v6U_BLA.jpeg)
+Product Listing page(men’s page ,woman’s page, Kid’s page ):-
 
+The user lands on our product page. This page list all the products on our website. The user can click on the desired product to know more about that product. It will take you to the product description page. This is done with the help of local storage. In Description user can find all the details of the product and wants to buy it, just need to click on the “ADD TO CART” button .This will take us to Add to the cart page where we can view products and every detail .Those pages are done by “Bipin Sharma and Rakesh Swain”
+![7](https://miro.medium.com/max/1400/0*VRVdDygrSk2GuyKR.png)
 
-# Products Page
-In this page, you can find all details of the product like price of the product and some basic information about products.
-![2](https://miro.medium.com/max/1400/1*5x1IoVXMqOKrooFdXxGGCw.jpeg)
+![9](https://miro.medium.com/max/1400/0*bIxHbqZRiq_-HR2a.png)
 
 
-# Payment Page
-In this page, If you want to purchase the product, you need fill some details regarding card details and here you also find how the discount you get, how much you need to pay and address
+# men’s and woman’s landing page
+ ![10](https://miro.medium.com/max/1400/0*bdUJJuyJ79OEieM2.png)
+
+## Wishlist page and Add to cart page :-
+
+This product is moved to the cart with the help of local storage and if we want to continue shopping we simply click on that continue shopping button this will take us back to the product page. If we need to buy this product click on “PLACE ORDER”. it will head you to “Address page”
+
+In Product listing page their is one more option as wishlist button . if user user like that product that product will store in wishlist page .Those pages are built by “karina khairnar(me)”
+
+![11](https://miro.medium.com/max/1400/0*wX3ZwlKVomWvx64K.png)
+
+![12](https://miro.medium.com/max/1400/0*Qw5Y1eJNeQsqNrh_.png)
+
+## Checkout page and Payment page
+
+when user lands in Address page here user have to fill their address where user wants to place order, after filling all the information user have to click on “Add Address” that address have being store in our site. after that button leads to “Payment page”. In payment page user have to provide card details for example ,card number, validity date and cvv .after completing all process user will get notifition as order placed. those pages are build by “shakti bhan”
+
+![13](https://miro.medium.com/max/1400/0*Aj-bGO1Z8gFTBVhn.png)
+
+# Address page and payment page
+
+![14](https://miro.medium.com/max/1400/0*R8J4x3yHcr7XR8tS.png)
+
+## Nav Bar and Footer :-
+
+In Navbar we use hovering function ,their you can see as shown in Image. In Footer their same information our website .if you want to share information about our product you can follow as on social media. Those Navbar and Footer are built by “kiran Das”
+![15](https://miro.medium.com/max/1400/0*CxTOH40S1GItvYg4.png)
+
+![16](https://miro.medium.com/max/1400/0*9lDkQaY5EMPMa35v.png)
+
+This is the overall walkthrough of our project.......
+
+
+Key Learning :-
+
+From this construct week’s projects, we learned how effectively we can use the DOM to make our static page more responsive. Another thing is about Local Storage. Without the knowledge of local storage, we cant be able to do this much in this project.
+
+Excited and wanna see our project……
+
+
 
 ****deploy link***
 
