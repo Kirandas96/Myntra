@@ -94,7 +94,7 @@ Local Storage
 ES6
 
 bootstrap
----[blog-link(https://medium.com/@amankatiyar0002016/fraazo-d0e53e1d1aaa)]
+---[blog-link(https://medium.com/@swainrakeshkumar60/myntra-online-fashion-store-97352e428d6b)]
 
 
 
